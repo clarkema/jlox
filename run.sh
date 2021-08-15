@@ -1,3 +1,3 @@
 #! /bin/sh
 
-java -cp .  com.craftinginterpreters.lox.Lox
+rlwrap java -cp .  com.craftinginterpreters.lox.Lox
